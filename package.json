@@ -1,0 +1,13 @@
+{
+    "name": "application",
+    "version": "1.0.0",
+    "author": "Iworb",
+    "description": "Application",
+    "noAnalyze": true,
+    "license": "MIT",
+    "private": false,
+    "dependencies": {
+        "pip-webui-tasks": "^1.8.0"
+    },
+    "devDependencies": {}
+}
